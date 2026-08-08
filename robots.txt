@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-xyz8xj.indocuan-vip.sbs/sitemap.xml
